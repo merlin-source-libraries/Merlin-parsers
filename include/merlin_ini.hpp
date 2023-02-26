@@ -7,6 +7,7 @@
  * \author Raphaël Lefèvre
 */
 
+#include <string>
 #include <unordered_map>
 
 /*!
